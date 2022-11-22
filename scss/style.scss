@@ -147,7 +147,15 @@ margin-bottom: 30px;
 
 #pricing{padding: 7% 15%;}
 
-.card{height:350px}
+.card{
+    height:350px;
+
+      button{
+        width: 170px;
+        background-color: black;
+      }  
+
+}
 
 #princint-col{
     padding: 2% 3%;
