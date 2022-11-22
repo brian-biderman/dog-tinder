@@ -1,3 +1,7 @@
+#footer, #cta, #pricing, #testimonials, #features {
+  padding: 7% 15%;
+}
+
 #h1 {
   font-family: "Montserrat";
   font-weight: bolder;
@@ -75,7 +79,6 @@
 }
 
 #features {
-  padding: 7% 15%;
   background-color: white;
   position: relative;
   z-index: 1;
@@ -96,7 +99,6 @@
 
 #testimonials {
   background-color: rgb(255, 20, 55);
-  padding: 7% 15%;
   color: white;
 }
 #testimonials h2 {
@@ -133,10 +135,6 @@
   margin-left: 100px;
 }
 
-#pricing {
-  padding: 7% 15%;
-}
-
 .card {
   height: 350px;
 }
@@ -152,7 +150,6 @@
 #cta {
   background-color: rgb(255, 20, 55);
   height: 300px;
-  padding: 6% 15%;
 }
 #cta h3 {
   color: white;
@@ -166,7 +163,6 @@
 
 #footer {
   text-align: center;
-  padding: 6% 15%;
 }
 
 .social-icon {
